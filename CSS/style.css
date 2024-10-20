@@ -190,7 +190,7 @@ li {
 
 .home-img {
     width: 25%;
-    padding: 70px 0px 20px 0px;
+    padding-top: 70px;
     animation: movingImg 5s infinite;
 }
 
