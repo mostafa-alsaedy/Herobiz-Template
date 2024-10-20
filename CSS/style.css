@@ -189,7 +189,7 @@ li {
 }
 
 .home-img {
-    width: 35%;
+    width: 25%;
     padding: 50px 0;
     animation: movingImg 5s infinite;
 }
